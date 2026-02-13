@@ -1,0 +1,17 @@
+{
+  "name": "emergent-ai-2026-demo",
+  "version": "1.0.0",
+  "description": "Emergent AI 2026 multi-agent demo by webscraft.org",
+  "main": "demo.js",
+  "scripts": {
+    "start": "node demo.js",
+    "demo": "node demo.js --demo"
+  },
+  "keywords": ["emergent-ai", "multi-agent", "spring-boot", "ai-2026"],
+  "author": "WebCraft Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/[yourusername]/emergent-ai-2026-demo"
+  }
+}
